@@ -1,0 +1,13 @@
+.logo{
+  display:flex;
+}
+
+.App-header{
+  background-color: #FFF;
+  display: flex;
+
+}
+
+li{
+  list-style: none;
+}
