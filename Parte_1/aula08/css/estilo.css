@@ -1,0 +1,14 @@
+#modal{
+    /* display deixa invisivel */
+    display:none;
+    position:fixed;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    /* posição dos elementos */
+    z-index: 10;
+    padding: 20px;
+    color:black;
+    background-image:linear-gradient(to right, #f1f2b1, black)
+
+}
